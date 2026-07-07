@@ -1,3 +1,5 @@
+A Novel Dual Decomposition Optimization  Method on SO(2) Manifold for Deep Neural Networks
+
 ## 1 Import Optimizer
 When using our method, locate the training file for your deep learning model, and then add the following lines of code:
 ```
